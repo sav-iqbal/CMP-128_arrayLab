@@ -1,4 +1,4 @@
-/* Author: Shariqa Iqbal
+/* Author: Savaas Iqbal
    Date: 12/8/22
    Purpose: Create an array that will generate random numbers. The numbers will alternate in being added or subtracted. Find the total and output it. 
 */
